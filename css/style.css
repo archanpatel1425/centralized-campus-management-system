@@ -28,6 +28,10 @@ html {
   scroll-behavior: smooth;
 }
 
+.lowercase {
+  text-transform: lowercase !important;
+}
+
 /*************** scroll bar ***************/
 
 html::-webkit-scrollbar {
